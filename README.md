@@ -1,5 +1,7 @@
 # 🏗 Scaffold-ETH 2
 
+Minting <a href="https://nextjs-grytchyn-kostas-projects-8dfeacde.vercel.app/"></a> website 
+
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>

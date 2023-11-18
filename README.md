@@ -1,8 +1,8 @@
 # 🏗 Scaffold-ETH 2
 
-<h6 align="center">
+<h1 align="center">
   <a  href="https://nextjs-grytchyn-kostas-projects-8dfeacde.vercel.app/">My Minting website</a> 
-</h6>
+</h1>
 
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
